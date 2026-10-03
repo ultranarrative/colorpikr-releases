@@ -1,6 +1,16 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="ColorPikr: Pick it, keep it." width="100%">
+</p>
+
 # ColorPikr
 
-**Pick it, keep it.** An eyedropper for any colour on screen, read in HEX, RGB, HSL and CMYK, and palettes to keep the ones you love.
+**Pick it, keep it.**
+
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/tools](https://www.ultranarrative.com/tools) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+An eyedropper for any colour on screen, read in HEX, RGB, HSL and CMYK, and palettes to keep the ones you love.
 
 Free, for a Mac with Apple silicon, macOS 11 or later. This repository holds the installer only. More free apps at [ultranarrative.com/tools](https://www.ultranarrative.com/tools).
 
